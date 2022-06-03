@@ -26,3 +26,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 # angularDataBinding
+max:
+https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/6656162#questions
